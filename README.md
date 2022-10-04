@@ -19,14 +19,14 @@ Why your willing to read this I have no clue...
 
 ---
 
-### ⚙️ &nbsp;GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rootdidid&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rootdidid&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rootdidid&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-<a href="https://github.com/rootdidid">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rootdidid&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rootdidid&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=rootdidid&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
